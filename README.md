@@ -13,6 +13,7 @@ En réalité , notre application peut etre utilisée par 2 personnes :
 - Changer un mot de passe oublié 
 
 1.2/ Role de l’administrateur :
+
 -L'authentification 
 - Approuver/Désapprouver un compte d'un utilisateur
 - Consulter la liste des comptes

@@ -11,6 +11,7 @@ En réalité , notre application peut etre utilisée par 2 personnes :
 - Consulter l'historique des virements 
 - Commander Un Chéquier
 - Changer un mot de passe oublié 
+
 1.2/ Role de l’administrateur :
 -L'authentification 
 - Approuver/Désapprouver un compte d'un utilisateur
